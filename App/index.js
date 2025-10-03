@@ -5,7 +5,7 @@ import DashboardHeader from '../../components/DashboardHeader';
 import { fetchSensorData } from '../../services/apiService';
 
 
-// currently set up so it displays these default values, then updates random numbers every 30 seconds
+// currently set up so it displays these default values, then updates random numbers every 30s
 // actual API implementation pending
 export default function Dashboard() {
   const [sensorData, setSensorData] = useState([
