@@ -13,3 +13,7 @@ ESP32 + Sensors → AWS IoT Core → DynamoDB → AWS Lambda → API Gateway →
 *disclaimer: I could just keep building the frontend and making features and constantly updating it if i wanted to, but i dont so i probably wont. The reason I started this project was because I found the the sensor / microcontroller work interesting and was more fascinated by creating the data pipeline than by making the app look all pretty. im pretty happy with how the app looks as is, so now just need to add ESP32 code and ensure data pipeline is steady!
 
 
+## Physical Circuitry / Hardware
+
+
+![PlantBoard](https://github.com/user-attachments/assets/08dc9398-21c0-4f1d-ae9f-519ee0c5d579)
